@@ -1,5 +1,5 @@
 window.addEventListener('DOMContentLoaded', navigator, false);
-window.addEventListener('haschange', navigator, false);
+window.addEventListener('hashchange', navigator, false);
 
 const inicio = document.getElementById('home');
 const tendencias = document.getElementById('pelisTendencia');

@@ -1,0 +1,132 @@
+.imagen{
+    width: 18rem;
+    height: 26rem;
+}
+
+.fuenteCategorias{
+    font-size: small;
+}
+
+.sombra{ 
+    filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.7)); 
+}
+
+.bordeNegro{
+    box-shadow: 2px 3px 3px 1px rgba(0,0,0,0.5);
+}
+
+.imagenIndividual{
+    width: 30rem;
+    height: 39rem;
+}
+
+.fondoDegradado{
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 100%); 
+}
+
+.fondoAzul{
+    background-color: #094d92;
+}
+
+.lista{
+    list-style-type: none;
+}
+
+.invisible{
+    display: none;
+}
+
+.morado{
+    color: #7D6E83;
+}
+
+.naranja{
+    color: #EF5B0C;
+}
+
+.fondoAmarillo{
+    background-color: #f6ae2d;
+}
+
+.fondoCeleste{
+    background-color: #55dde0;
+}
+
+.azulOscuro{
+    color: #003865;
+}
+
+.fondoVioleta{
+    background-color: #70198A;
+}
+
+.fondoAzulOscuro{
+    background-color: #000;
+}
+.fondoGris{
+    background-color: grey;
+}
+
+.fondoVerde{
+    background-color: #3CCF4E;
+}
+
+.arenaClaro{
+    color: #DFD3C3;
+}
+
+.fondoNaranja{
+    background-color: #f26419;
+}
+
+.blanco{
+    color: #D4F6CC;
+}
+
+.fuenteTitulos{
+    font-family: 'Sansita', sans-serif;
+}
+
+.fuenteParrafos{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.flecha{
+    cursor: pointer;
+}
+.flecha:hover{
+    color: #000;
+}
+.aqui{
+    cursor: pointer;
+}
+.aqui:hover{
+    color: white;
+}
+
+.manito:hover{
+    cursor: pointer;
+}
+
+.buttonCat{
+    background-color: #000;
+    color: white;
+    cursor:pointer;
+    border: 4px solid black;
+    box-shadow: 2px 3px 3px 1px rgba(0,0,0,0.5);
+   }
+.buttonCat:hover{
+    color: #55dde0;
+    border: 3px solid #55dde0;
+   }
+.buttonCat:active{
+    transform: scale(0.90);
+   }
+
+.buttonCatInd{
+    background-color: #000;
+    color: white;
+    cursor:pointer;
+    border: 4px solid black;
+}
